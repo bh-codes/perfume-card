@@ -33,8 +33,8 @@ product-preview-card.png
 
 ### Links
 
-- Solution URL: https://github.com/bh-codes/product-preview-card
-- Live Site URL: https://bh-codes.github.io/product-preview-card/
+- Solution URL: https://github.com/bh-codes/perfume-card
+- Live Site URL: https://bh-codes.github.io/perfume-card
 
 ## My process
 
